@@ -4,10 +4,6 @@ A professionally designed **frontend-only education website** built using **HTML
 This project demonstrates strong fundamentals of frontend development, clean code organization, and responsive user interface design.  
 It is intended for academic use, portfolio presentation, and GitHub Education showcasing.
 
-## 🔗 Live Deployment
-👉 https://muhammad-fahad-javed.github.io/education-frontend-website/
-
----
 
 ## 📌 Project Overview
 The **Education Frontend Website** is a static web application that focuses on delivering an intuitive and visually clean educational interface.  
@@ -30,6 +26,8 @@ The project emphasizes frontend best practices, semantic markup, and maintainabl
 - **JavaScript (Vanilla)** – Client-side interactivity
 
 ---
+## 🔗 Live Deployment
+https://muhammad-fahad-javed.github.io/Academic-Frontend-Site/
 
 ## 📂 Folder Structure
 # Academic-Frontend-Site
