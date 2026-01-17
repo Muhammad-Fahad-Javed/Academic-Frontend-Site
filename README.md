@@ -29,5 +29,4 @@ The project emphasizes frontend best practices, semantic markup, and maintainabl
 ## 🔗 Live Deployment
 https://muhammad-fahad-javed.github.io/Academic-Frontend-Site/
 
-## 📂 Folder Structure
 # Academic-Frontend-Site
